@@ -1,2 +1,10 @@
-# Swiggy_Analysis
+# Swiggy Analysis
 The Analysis is based on 115 popular restaurants from 59 different areas, considering 79 varieties of delicious cuisines, majorly across the 'Bangalore' region.  
+## Metrics:
+1. Cost - Cost incurred for a specific Cuisine (Considered on basis of 2 Heads)
+2. Rating - Rating given to a specific Restaurant (Considered out of 5)
+## Dashboard Visual:
+![Swiggy_DB_SS](https://github.com/binnithomas/Swiggy_Analysis/assets/124578312/a5931241-01e8-4d76-878c-af9f7a4ec890)
+## Insights:
+Prevailing as one of the most popular Food Delivery platform, Swiggy has shown an active presence and continues to be at the top level of choice amongst the food lovers. Through an analysis focused on to the ‘Bangalore Outlets’ in various sub-regions, it is observed that, amongst 79 varieties of cuisines, ‘North Indian’ cuisine forms the top-most layer in being dealt (10.17%), followed by ‘Deserts’ (4.24%), ‘Biriyani’ (3.39%), and so on. When the Costs (Considered per 2 heads) ranges between 100/- to 800/- respectively, it is observed that, 150/- to 500/- are charged by multiple restaurants. In this aspect, 300/- stands at the top (Cost charged by about 16 restaurants), and also can be considered as an affordable rate, inclusive of the convenience. The popularity measure of a specific restaurant is decided based on the respective ‘Rating’ (ranging between ‘3.6’ to ‘4.8’). It clearly depicts that, each restaurants being considered here, featuring unique and delicious cuisine ranges, are amongst the ‘favorite’ list of the food lovers. In this aspect, at the top is the ‘Khichdi Experiment’ (featuring Homely & Healthy Indian style cuisine, charging a cost of 200/- (per 2 heads)), with the rating of ‘4.8’, and in the opposite view being, ‘Village Donne Biriyani’ (featuring South Indian cuisine, charging a cost of 300/- (per 2 heads)), with the rating of ‘3.6’. This indicates that, at an affordable cost, ‘Homely & Healthy’ oriented foods are more preferred amongst other range of cuisines. 
+
